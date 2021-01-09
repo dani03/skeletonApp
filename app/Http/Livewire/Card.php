@@ -14,8 +14,8 @@ class Card extends Component
         sleep(1);
         $this->data = [
             'image' => 'https://www.pexels.com/fr-fr/photo/mode-homme-gens-bureau-5945256/',
-            'name' => 'daniel Same',
-            'description' => 'bonjour je m\'appelle daniel'
+            'name' => 'daniel doe',
+            'description' => 'bonjour je m\'appelle joe'
         ];
     }
     public function render()
